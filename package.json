@@ -1,0 +1,17 @@
+{
+  "name": "project1",
+  "version": "0.0.1",
+  "description": "simple tabla de multiplicar",
+  "main": "cradordearchivos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonh Cook",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.11"
+  },
+  "dependencies": {
+    "yargs": "^17.0.1"
+  }
+}
